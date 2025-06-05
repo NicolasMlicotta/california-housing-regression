@@ -1,4 +1,9 @@
 # California Housing Price Prediction
-Este proyecto utiliza el dataset **California Housing** derivado del censo de 1990 para predecir el **valor medio de las viviendas por bloque censal** a partir de variables socioeconómicas y geográficas.
-El objetivo es desarrollar modelos de regresión que permitan estimar con precisión el valor medio de una vivienda.
-Fueron utilizados 3 modelos distintos: Regresión Lineal, Random Forest y Gradient Boosting.
+
+This project uses the **California Housing** dataset—derived from the 1990 census—to predict the **median house value per census block** based on socioeconomic and geographic features. The goal is to build regression models capable of accurately estimating median home prices. Three different algorithms were implemented and compared:
+
+- **Linear Regression**  
+- **Random Forest Regressor**  
+- **Gradient Boosting Regressor**  
+
+Each model’s performance is evaluated using appropriate metrics, and visualizations are provided to compare predicted versus actual values.
